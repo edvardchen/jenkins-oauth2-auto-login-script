@@ -20,3 +20,8 @@ tampermonkey script to stay logged in self-host jenkins
 3. 设置公司部署的 jenkins 地址
 
    ![install](docs/set_domain.png)
+
+4. 打开上述的地址，不要关闭这个页面（inactive 没关系），我们可以固定标签页或者单独开一个 chrome window 并且最小化。
+   日常我们打开新的 jenkins 页面操作。
+
+   ![pin-tab](https://img3.appinn.net/images/201903/pintab.jpg!o)
