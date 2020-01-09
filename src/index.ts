@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Jenkins Google 自动刷新登录
+// @name         Jenkins OAuth2 自动登录
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
