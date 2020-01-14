@@ -15,6 +15,7 @@ parserOptions:
   ecmaVersion: 2018
   sourceType: module
 rules:
+  'no-console': 0
   '@typescript-eslint/prefer-interface': 0
   '@typescript-eslint/explicit-member-accessibility':
     - 1
@@ -22,10 +23,7 @@ rules:
       overrides:
         parameterProperties: explicit
   '@typescript-eslint/no-parameter-properties': 0
-  '@typescript-eslint/explicit-function-return-type':
-    - 1
-    - allowExpressions: true
-      allowTypedFunctionExpressions: true
+  '@typescript-eslint/explicit-function-return-type': 0
   '@typescript-eslint/no-unused-vars':
     - 1
     - argsIgnorePattern: ^_|ignore
