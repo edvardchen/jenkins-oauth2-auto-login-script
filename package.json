@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "jenkins-oauth2-auto-login-script",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "tampermonkey script to stay logged in self-host jenkins",
   "main": "lib/index.js",
   "scripts": {
